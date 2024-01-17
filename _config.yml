@@ -21,16 +21,14 @@
 title: 크크PC와 함께하는 아름다운 IT 이야기
 email: ekingkong@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
-크크PC와 함께하는 아름다운 IT 이야기. 
-크크PC는 PC 사용 방법을 시작으로, 다양한 IT분야의 자유로운 이야기를 다룹니다. 
-(모바일, IoT, 웹사이트, 애플리케이션, 데이터베이스, 해킹, 3D 프린팅, 드론 등 자유롭습니다.)
-
-영상에 제작된 모든 문서는 
-https://kkpcw.github.io 와
-https://blog.naver.com/ekingkong 에서 제공하고 있습니다.
-
-문의 사항 있으시다면, ekingkong@naver.com 으로 연락주세요.
-감사합니다.
+  크크PC와 함께하는 아름다운 IT 이야기. 
+  크크PC는 PC 사용 방법을 시작으로, 다양한 IT분야의 자유로운 이야기를 다룹니다. 
+  (모바일, IoT, 웹사이트, 애플리케이션, 데이터베이스, 해킹, 3D 프린팅, 드론 등 자유롭습니다.)
+  영상에 제작된 모든 문서는 
+  https://kkpcw.github.io 와
+  https://blog.naver.com/ekingkong 에서 제공하고 있습니다.
+  문의 사항 있으시다면, ekingkong@naver.com 으로 연락주세요.
+  감사합니다.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kkpcw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
